@@ -1,6 +1,7 @@
-data/
+ori_data/
 __pycache__
-cust/dataset
 cust/pickle/train
 cust/pickle/val
+cust/dataset/train
+cust/dataset/val
 checkpoints
